@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "permission" : "rb28dett::users.access",
+            "trans": "rb28dett_users::general.user_list",
+            "route": "rb28dett::users.index"
+        },
+        {
+            "permission" : "rb28dett::users.create",
+            "trans": "rb28dett_users::general.create_user",
+            "route": "rb28dett::users.create"
+        }
+    ]
+}

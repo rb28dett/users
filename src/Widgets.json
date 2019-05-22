@@ -1,0 +1,6 @@
+[
+    {
+        "view": "rb28dett_users::widgets.users",
+        "permission": "rb28dett::users.access"
+    }
+]
